@@ -1,1 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.nlbc_org.twa",
+        "sha256_cert_fingerprints": ["A9:F3:26:F6:77:AA:CE:F7:11:98:05:6B:F9:17:BE:7B:03:06:2A:48:B0:96:5F:10:01:E3:D7:D3:F8:DB:CE:1C"]
+      }
+    }]
 
