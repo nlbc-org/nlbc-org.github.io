@@ -3,7 +3,7 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.nlbc_org.twa",
-        "sha256_cert_fingerprints": ["A9:F3:26:F6:77:AA:CE:F7:11:98:05:6B:F9:17:BE:7B:03:06:2A:48:B0:96:5F:10:01:E3:D7:D3:F8:DB:CE:1C"]
+        "sha256_cert_fingerprints": ["82:E1:D7:35:77:50:D9:30:51:55:BF:7E:8B:E1:56:46:06:76:0D:72:4E:A3:E4:BC:A7:3E:69:F8:4D:8D:AB:48"]
       }
     }]
 
